@@ -1,0 +1,35 @@
+/*this is styling of the my project using css*/
+
+body {
+    background-color: grey;
+}
+
+header h1 {
+    text-align: center;
+    color: blue;
+}
+
+article section img {
+    width: 50%;
+    color: gold;
+}
+
+.jets {
+    color: maroon;
+}
+
+.jets {
+    color: maroon;
+}
+
+footer {
+    align: center;
+}
+
+#Helicopterscharters {
+    color: red;
+}
+
+#act {
+    color: maroon;
+}
